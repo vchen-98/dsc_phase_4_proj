@@ -57,7 +57,7 @@ Using our content based model in conjunction with our collaborative filtering mo
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./working_final.ipynb) or our [presentation](./slide_deck.pdf).
+Please review our full analysis in [our Jupyter Notebook](./final_notebook.ipynb) or our [presentation](./slide_deck.pdf).
 
 For any additional questions, please contact **Victor Chen victor.i.chen.98@gmail.com, Erin Vu erin.vu94@gmail.com, Brian Matsiko makryan77@gmail.com**
 
