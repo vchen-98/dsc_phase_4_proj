@@ -1,4 +1,4 @@
-# WebFlix Recommendations System
+# WebFlix Recommendation System
 
 **Authors**: Victor Chen, Brian Matsiko, Erin Vu
 
