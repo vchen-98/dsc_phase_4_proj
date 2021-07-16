@@ -6,7 +6,7 @@
 
 Our project is a recommendation engine that uses collaborative filtering and content based filtering in order to recommend movies to users based off of movie ratings from the MovieLens dataset.
 
-![logo](images/logo.jpeg)
+![logo](Images/cover.jpg)
 
 ## Business Problem
 
@@ -38,14 +38,7 @@ Collaborative based Filtering recommendation system was built with algorithms fr
 
 ***
 Content based Filtering was mainly built for new users and new items as it utilizes the TF-IDF to refelct the importance of Genre in any movie and then uses the sum product of those weights as well as the user's preference towards different genres and then based on this sum product we can sort through movies and recommend the top 5 for each user.
-![Content Based Filtering Recommendation System](./images/top_studios_revenue.png)
-
-***
-Consider making the movie longer rather than shorter
-
-![graph1](./images/rating_runtime_minutes.png)
-
-***
+![Content Based Filtering Recommendation System](./Images/Content based filtering.png)
 
 
 ## Evaluation
