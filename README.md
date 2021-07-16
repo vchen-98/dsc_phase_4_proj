@@ -38,7 +38,7 @@ Collaborative based Filtering recommendation system was built with algorithms fr
 
 ***
 Content based Filtering was mainly built for new users and new items as it utilizes the TF-IDF to refelct the importance of Genre in any movie and then uses the sum product of those weights as well as the user's preference towards different genres and then based on this sum product we can sort through movies and recommend the top 5 for each user.
-![Content Based Filtering Recommendation System](./Images/Content based filtering.png)
+![Content Based Filtering Recommendation System](./Images/Content_based_filtering.png)
 
 
 ## Evaluation
